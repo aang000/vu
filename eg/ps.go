@@ -8,8 +8,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/gazed/vu"
-	"github.com/gazed/vu/render"
+	"github.com/aang000/vu"
+	"github.com/aang000/vu/render"
 )
 
 // ps demonstrates a CPU-based particle system and a GPU-based (shader only)

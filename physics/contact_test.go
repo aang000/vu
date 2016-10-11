@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gazed/vu/math/lin"
+	"github.com/aang000/vu/math/lin"
 )
 
 // Check unique pair unique ids. Assign fixed body ids for an easy visual check.

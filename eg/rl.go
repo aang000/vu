@@ -8,8 +8,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/gazed/vu"
-	"github.com/gazed/vu/grid"
+	"github.com/aang000/vu"
+	"github.com/aang000/vu/grid"
 )
 
 // rl, random levels, tests higher level graphics functionality.

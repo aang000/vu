@@ -6,7 +6,7 @@ package main
 import (
 	"log"
 
-	"github.com/gazed/vu"
+	"github.com/aang000/vu"
 )
 
 // tt demonstrates rendering to a scene to a texture, and then

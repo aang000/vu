@@ -7,8 +7,8 @@ import (
 	"log"
 	"sort"
 
-	"github.com/gazed/vu"
-	"github.com/gazed/vu/math/lin"
+	"github.com/aang000/vu"
+	"github.com/aang000/vu/math/lin"
 )
 
 // sg tests the scene graph by building up a movable character that has multiple

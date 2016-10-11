@@ -8,7 +8,7 @@ package vu
 import (
 	"math"
 
-	"github.com/gazed/vu/math/lin"
+	"github.com/aang000/vu/math/lin"
 )
 
 // Animator is a Model that can have multiple animated actions.

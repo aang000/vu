@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/gazed/vu/math/lin"
+	"github.com/aang000/vu/math/lin"
 )
 
 // Iqm loads an Inter-Quake model IQM file into ModData.

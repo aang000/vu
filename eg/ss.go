@@ -8,8 +8,8 @@ import (
 	"log"
 	"math"
 
-	"github.com/gazed/vu"
-	"github.com/gazed/vu/synth"
+	"github.com/aang000/vu"
+	"github.com/aang000/vu/synth"
 )
 
 // ss is an EXPERIMENTAL example for exploring procedural models

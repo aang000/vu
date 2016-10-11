@@ -16,7 +16,7 @@ import (
 	"math"
 	"sync"
 
-	"github.com/gazed/vu/math/lin"
+	"github.com/aang000/vu/math/lin"
 )
 
 // Body is a single object contained within a physics simulation.

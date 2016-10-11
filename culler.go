@@ -8,7 +8,7 @@ package vu
 //         ie: quad-tree's or other spacial organization schemes.
 
 import (
-	"github.com/gazed/vu/math/lin"
+	"github.com/aang000/vu/math/lin"
 )
 
 // Culler reduces the number of items sent for rendering.

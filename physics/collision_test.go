@@ -6,7 +6,7 @@ package physics
 import (
 	"testing"
 
-	"github.com/gazed/vu/math/lin"
+	"github.com/aang000/vu/math/lin"
 )
 
 func TestCollideSphereSphere(t *testing.T) {

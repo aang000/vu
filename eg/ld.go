@@ -6,11 +6,11 @@ package main
 import (
 	"fmt"
 
-	"github.com/gazed/vu/device"
-	"github.com/gazed/vu/load"
-	"github.com/gazed/vu/math/lin"
-	"github.com/gazed/vu/render"
-	"github.com/gazed/vu/render/gl"
+	"github.com/aang000/vu/device"
+	"github.com/aang000/vu/load"
+	"github.com/aang000/vu/math/lin"
+	"github.com/aang000/vu/render"
+	"github.com/aang000/vu/render/gl"
 )
 
 // ld loads a mesh model that has been exported from another tool.

@@ -9,7 +9,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/gazed/vu"
+	"github.com/aang000/vu"
 )
 
 // ma, model animation, is an example of loading and animating a model using

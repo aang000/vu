@@ -6,7 +6,7 @@ package physics
 import (
 	"math"
 
-	"github.com/gazed/vu/math/lin"
+	"github.com/aang000/vu/math/lin"
 )
 
 // contactPair contains information about two bodies that are close or

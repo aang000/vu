@@ -11,8 +11,8 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/gazed/vu"
-	"github.com/gazed/vu/synth"
+	"github.com/aang000/vu"
+	"github.com/aang000/vu/synth"
 )
 
 // pt is an EXPERIMENTAL example for exploring generated textures.

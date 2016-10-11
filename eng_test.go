@@ -6,7 +6,7 @@ package vu
 import (
 	"testing"
 
-	"github.com/gazed/vu/math/lin"
+	"github.com/aang000/vu/math/lin"
 )
 
 // TestChildWorldTransform checks that a child object gets its

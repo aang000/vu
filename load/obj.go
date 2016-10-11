@@ -10,7 +10,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/gazed/vu/math/lin"
+	"github.com/aang000/vu/math/lin"
 )
 
 // Obj loads a Wavefront OBJ file containing one or more mesh descriptions.

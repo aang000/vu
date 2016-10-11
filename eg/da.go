@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/gazed/vu/audio/al"
+	"github.com/aang000/vu/audio/al"
 )
 
 // Dump the openal binding information. This is a basic audio package test that

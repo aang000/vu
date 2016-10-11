@@ -7,7 +7,7 @@ import (
 	"testing"
 	// "time"
 
-	"github.com/gazed/vu/load"
+	"github.com/aang000/vu/load"
 )
 
 // test that an audio resource can be loaded. Mimics the steps taken

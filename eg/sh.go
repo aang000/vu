@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/gazed/vu/device"
-	"github.com/gazed/vu/render/gl"
+	"github.com/aang000/vu/device"
+	"github.com/aang000/vu/render/gl"
 )
 
 // sh is used to test and showcase the vu/device package. Just getting a window

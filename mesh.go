@@ -6,7 +6,7 @@ package vu
 // mesh.go maps mesh data to the GPU and keeps the GPU reference.
 
 import (
-	"github.com/gazed/vu/render"
+	"github.com/aang000/vu/render"
 )
 
 // Mesh is an optional, but very common, part of a rendered Model.

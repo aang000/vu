@@ -6,7 +6,7 @@ package main
 import (
 	"log"
 
-	"github.com/gazed/vu"
+	"github.com/aang000/vu"
 )
 
 // bb tests the engines handling of billboards, banners and fonts as

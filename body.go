@@ -8,8 +8,8 @@ package vu
 //         all physics instances.
 
 import (
-	"github.com/gazed/vu/math/lin"
-	"github.com/gazed/vu/physics"
+	"github.com/aang000/vu/math/lin"
+	"github.com/aang000/vu/physics"
 )
 
 // bodies manages all the active physics instances.

@@ -9,7 +9,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/gazed/vu/render/gl"
+	"github.com/aang000/vu/render/gl"
 )
 
 // opengl is the OpenGL implemntation of Renderer. See the Renderer interface

@@ -22,7 +22,7 @@ package vu
 //    o keeping all particles part of a single vao.
 
 import (
-	"github.com/gazed/vu/render" // Needed to generate per-vertex data.
+	"github.com/aang000/vu/render" // Needed to generate per-vertex data.
 )
 
 // Particle is one of the particles updated by a ParticleEffect.

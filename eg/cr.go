@@ -8,7 +8,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/gazed/vu"
+	"github.com/aang000/vu"
 )
 
 // cr, collision resolution, demonstrates simulated physics by having balls bounce

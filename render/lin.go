@@ -4,7 +4,7 @@
 package render
 
 import (
-	"github.com/gazed/vu/math/lin"
+	"github.com/aang000/vu/math/lin"
 )
 
 // lin hides the fact that the current underlying graphics implementation

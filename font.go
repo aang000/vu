@@ -9,7 +9,7 @@ package vu
 //         http://www.angelcode.com/products/bmfont/
 
 import (
-	"github.com/gazed/vu/render"
+	"github.com/aang000/vu/render"
 )
 
 // Labeler is a Model that displays a small text phrase. The Model

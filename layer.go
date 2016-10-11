@@ -18,8 +18,8 @@ package vu
 //         for different render scenarios to consider.
 
 import (
-	"github.com/gazed/vu/math/lin"
-	"github.com/gazed/vu/render"
+	"github.com/aang000/vu/math/lin"
+	"github.com/aang000/vu/render"
 )
 
 // Layer is used to render to a 1024x1024 sized frame buffer based texture.

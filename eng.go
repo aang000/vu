@@ -11,7 +11,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/gazed/vu/physics"
+	"github.com/aang000/vu/physics"
 )
 
 // Eng provides support for a 3D application conforming to the App interface.

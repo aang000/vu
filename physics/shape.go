@@ -6,7 +6,7 @@ package physics
 import (
 	"math"
 
-	"github.com/gazed/vu/math/lin"
+	"github.com/aang000/vu/math/lin"
 )
 
 // Shape is a physics collision primitive generally used 3D model collision

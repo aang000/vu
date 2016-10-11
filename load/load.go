@@ -30,7 +30,7 @@ import (
 	"image"
 	"io"
 
-	"github.com/gazed/vu/math/lin"
+	"github.com/aang000/vu/math/lin"
 )
 
 // Design Notes: Balance between full functionality and maintainability,

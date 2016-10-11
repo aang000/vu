@@ -34,9 +34,9 @@ import (
 	"os"
 	"runtime/debug"
 
-	"github.com/gazed/vu/audio"
-	"github.com/gazed/vu/device"
-	"github.com/gazed/vu/render"
+	"github.com/aang000/vu/audio"
+	"github.com/aang000/vu/device"
+	"github.com/aang000/vu/render"
 )
 
 // New creates the Engine and initializes the underlying resources needed

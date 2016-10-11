@@ -10,9 +10,9 @@ package vu
 //  o Pov passes user object creation requests through the engine entity manager.
 
 import (
-	"github.com/aang000/vu/math/lin"
-	"github.com/aang000/vu/physics"
-	"github.com/aang000/vu/render"
+	"github.com/gazed/vu/math/lin"
+	"github.com/gazed/vu/physics"
+	"github.com/gazed/vu/render"
 )
 
 // Pov is a Point-of-view which is a combination of position and orientation.

@@ -23,8 +23,8 @@ package vu
 //   the pov hierarchy traversal.
 
 import (
-	"github.com/aang000/vu/math/lin"
-	"github.com/aang000/vu/render"
+	"github.com/gazed/vu/math/lin"
+	"github.com/gazed/vu/render"
 )
 
 // Camera makes rendered models visible within a frame. A camera is

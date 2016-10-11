@@ -6,8 +6,8 @@ package main
 import (
 	"log"
 
-	"github.com/aang000/vu"
-	"github.com/aang000/vu/math/lin"
+	"github.com/gazed/vu"
+	"github.com/gazed/vu/math/lin"
 )
 
 // lt tests the engines handling of some of the engine lighting shaders.

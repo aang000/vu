@@ -25,7 +25,7 @@ import (
 	"log"
 	"math"
 
-	"github.com/aang000/vu/math/lin"
+	"github.com/gazed/vu/math/lin"
 )
 
 // solver calculates the linear and angular velocity for each colliding

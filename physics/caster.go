@@ -10,7 +10,7 @@ package physics
 import (
 	"math"
 
-	"github.com/aang000/vu/math/lin"
+	"github.com/gazed/vu/math/lin"
 )
 
 // cast is the function prototype for ray casting algorithms. It takes two

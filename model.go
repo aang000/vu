@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/aang000/vu/math/lin"
-	"github.com/aang000/vu/render"
+	"github.com/gazed/vu/math/lin"
+	"github.com/gazed/vu/render"
 )
 
 // Model manages rendered 3D objects. Model is the link between loaded

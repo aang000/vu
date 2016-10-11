@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/aang000/vu"
-	"github.com/aang000/vu/math/lin"
+	"github.com/gazed/vu"
+	"github.com/gazed/vu/math/lin"
 )
 
 // rc demonstrates ray-casting and mouse-picking. In this example the plane

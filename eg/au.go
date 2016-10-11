@@ -7,8 +7,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/aang000/vu/audio/al"
-	"github.com/aang000/vu/load"
+	"github.com/gazed/vu/audio/al"
+	"github.com/gazed/vu/load"
 )
 
 // au demonstrates basic audio library, vu/audio/al, capabilities.

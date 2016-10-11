@@ -6,8 +6,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/aang000/vu/device"
-	"github.com/aang000/vu/render/gl"
+	"github.com/gazed/vu/device"
+	"github.com/gazed/vu/render/gl"
 )
 
 // Initialize enough of the opengl context that some OpenGL information

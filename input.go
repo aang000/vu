@@ -7,7 +7,7 @@ package vu
 // FUTURE: Have the device layer also support text entry.
 
 import (
-	"github.com/aang000/vu/device"
+	"github.com/gazed/vu/device"
 )
 
 // Input is used to communicate user feedback to the application.

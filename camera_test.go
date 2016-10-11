@@ -7,7 +7,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/aang000/vu/math/lin"
+	"github.com/gazed/vu/math/lin"
 )
 
 // Test a ray cast with simple perspective and view inverses.

@@ -9,8 +9,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/aang000/vu"
-	"github.com/aang000/vu/grid"
+	"github.com/gazed/vu"
+	"github.com/gazed/vu/grid"
 )
 
 // ff demonstrates flow field path finding by having a bunch of chasers and

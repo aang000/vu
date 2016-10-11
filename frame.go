@@ -10,8 +10,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/aang000/vu/math/lin"
-	"github.com/aang000/vu/render"
+	"github.com/gazed/vu/math/lin"
+	"github.com/gazed/vu/render"
 )
 
 // frame links the engine models and cameras to a render frame.

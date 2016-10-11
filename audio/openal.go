@@ -11,7 +11,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/aang000/vu/audio/al"
+	"github.com/gazed/vu/audio/al"
 )
 
 // Note: 64-bit OpenAL may be difficult to locate for Windows machines.

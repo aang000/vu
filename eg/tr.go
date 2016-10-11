@@ -9,11 +9,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/aang000/vu/device"
-	"github.com/aang000/vu/load"
-	"github.com/aang000/vu/math/lin"
-	"github.com/aang000/vu/render"
-	"github.com/aang000/vu/render/gl"
+	"github.com/gazed/vu/device"
+	"github.com/gazed/vu/load"
+	"github.com/gazed/vu/math/lin"
+	"github.com/gazed/vu/render"
+	"github.com/gazed/vu/render/gl"
 )
 
 // tr demonstrates basic OpenGL by drawing a triangle. If anything this example

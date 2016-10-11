@@ -14,8 +14,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/aang000/vu/load"
-	"github.com/aang000/vu/render"
+	"github.com/gazed/vu/load"
+	"github.com/gazed/vu/render"
 )
 
 // loader interfaces between the engine models and the load package.

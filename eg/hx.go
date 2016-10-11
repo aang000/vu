@@ -8,9 +8,9 @@ import (
 	"log"
 	"math"
 
-	"github.com/aang000/vu"
-	"github.com/aang000/vu/grid"
-	"github.com/aang000/vu/math/lin"
+	"github.com/gazed/vu"
+	"github.com/gazed/vu/grid"
+	"github.com/gazed/vu/math/lin"
 )
 
 // hx demonstrates hexagonal grids. Its main purpose is to determine

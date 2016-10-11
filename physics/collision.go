@@ -15,7 +15,7 @@ import (
 	"log"
 	"math"
 
-	"github.com/aang000/vu/math/lin"
+	"github.com/gazed/vu/math/lin"
 )
 
 // collider creates a collision algorithm for each combination of

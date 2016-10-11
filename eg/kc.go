@@ -6,7 +6,7 @@ package main
 import (
 	"log"
 
-	"github.com/aang000/vu"
+	"github.com/gazed/vu"
 )
 
 // kc explores treating the keyboard as a controller.

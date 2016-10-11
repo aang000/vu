@@ -6,7 +6,7 @@ package physics
 import (
 	"testing"
 
-	"github.com/aang000/vu/math/lin"
+	"github.com/gazed/vu/math/lin"
 )
 
 // Check that each pair has a unique id.

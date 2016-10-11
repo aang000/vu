@@ -6,7 +6,7 @@ package render
 import (
 	"sort"
 
-	"github.com/aang000/vu/math/lin"
+	"github.com/gazed/vu/math/lin"
 )
 
 // Draw holds the GPU references, shader uniforms, and the

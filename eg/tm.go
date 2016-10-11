@@ -7,8 +7,8 @@ import (
 	"log"
 	"math"
 
-	"github.com/aang000/vu"
-	"github.com/aang000/vu/synth"
+	"github.com/gazed/vu"
+	"github.com/gazed/vu/synth"
 )
 
 // tm demonstrates creating, texturing, and rendering a dynamic terrain map

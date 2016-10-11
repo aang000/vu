@@ -6,7 +6,7 @@ package vu
 // sound.go wraps the audio package and controls all engine sounds.
 
 import (
-	"github.com/aang000/vu/audio"
+	"github.com/gazed/vu/audio"
 )
 
 // sound is an engine sound asset. Expected to be accessed through

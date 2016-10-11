@@ -6,8 +6,8 @@ package main
 import (
 	"log"
 
-	"github.com/aang000/vu"
-	"github.com/aang000/vu/math/lin"
+	"github.com/gazed/vu"
+	"github.com/gazed/vu/math/lin"
 )
 
 // sm, shadow map, tests the engines handling of shadow maps
